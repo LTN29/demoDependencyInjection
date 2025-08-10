@@ -3,21 +3,21 @@
 Dự án này minh họa cách sử dụng **Dependency Injection (DI)** trong Java, giúp tách biệt các thành phần của ứng dụng, dễ dàng bảo trì và mở rộng.
 
 ## 📂 Cấu trúc thư mục:
-
+```plaintext
 src
 └── main
-├── java/com/demodi/app
-│ ├── DIContainer.java
-│ ├── Nofication.java
-│ ├── NoficationNoDI.java
-│ └── service/
-│ ├── EmailService.java
-│ ├── MessageService.java
-│ └── SMSService.java
-├── resources
-│ ├── static/
-│ ├── templates/
-│ └── application.properties
+    ├── java/com/demodi/app
+    │   ├── DIContainer.java
+    │   ├── Notification.java
+    │   ├── NotificationNoDI.java
+    │   └── service/
+    │       ├── EmailService.java
+    │       ├── MessageService.java
+    │       └── SMSService.java
+    ├── resources
+    │   ├── static/
+    │   ├── templates/
+    │   └── application.properties
 └── test
 
 ## 🚀 Chạy dự án
