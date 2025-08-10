@@ -23,7 +23,7 @@ src
 ## 🚀 Chạy dự án
 1. **Clone repo**
    ```bash
-   git clone https://github.com/<username>/demoDependencyInjection.git
+   git clone https://github.com/LTN29/demoDependencyInjection.git
    cd demoDependencyInjection
 2. **Build với Maven:**
    ```bash
