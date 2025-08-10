@@ -34,17 +34,18 @@ src
 
 📌 **Nội dung chính:**
 
-DIContainer: Quản lý injection thủ công.
+DIContainer: _Quản lý injection thủ công._
 
-NoficationNoDI: Cách code không dùng Dependency Injection.
+NoficationNoDI: _Cách code không dùng Dependency Injection._
 
-Nofication: Cách code khi sử dụng DI.
+Nofication: _Cách code khi sử dụng DI._
 
-Các service: EmailService, SMSService, MessageService.
+Các service: _EmailService, SMSService, MessageService._
 
 🛠 **Công nghệ sử dụng:**
-Java 21
-  
-Spring Boot.
 
-Maven.
+_Java 21_
+
+_Spring Boot_
+
+_Maven_
