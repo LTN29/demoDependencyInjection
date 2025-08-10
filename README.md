@@ -25,12 +25,11 @@ src
    git clone https://github.com/<username>/demoDependencyInjection.git
    cd demoDependencyInjection
 2. **Build với Maven:**
-bash
-mvn clean install
-
+   ```bash
+   mvn clean install
 3. **Chạy ứng dụng:**
-bash
-mvn spring-boot:run
+   ```bash
+   mvn spring-boot:run
 
 📌 **Nội dung chính:**
 DIContainer: Quản lý injection thủ công.
