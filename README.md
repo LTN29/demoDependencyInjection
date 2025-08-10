@@ -3,6 +3,7 @@
 Dự án này minh họa cách sử dụng **Dependency Injection (DI)** trong Java, giúp tách biệt các thành phần của ứng dụng, dễ dàng bảo trì và mở rộng.
 
 ## 📂 Cấu trúc thư mục:
+
 src
 └── main
 ├── java/com/demodi/app
@@ -32,12 +33,18 @@ src
    mvn spring-boot:run
 
 📌 **Nội dung chính:**
+
 DIContainer: Quản lý injection thủ công.
+
 NoficationNoDI: Cách code không dùng Dependency Injection.
+
 Nofication: Cách code khi sử dụng DI.
+
 Các service: EmailService, SMSService, MessageService.
 
 🛠 **Công nghệ sử dụng:**
 Java 21
-Spring Boot
-Maven
+  
+Spring Boot.
+
+Maven.
